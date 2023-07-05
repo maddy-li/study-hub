@@ -1,3 +1,2 @@
 # study-hub
-weather + music + study timer
-work in progress!
+work in progress! // weather + music + study timer
